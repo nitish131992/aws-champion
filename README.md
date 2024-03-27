@@ -16,7 +16,7 @@ Cloud storage that scales with Amazon S3.
 Amazon EBS: EC2 instance block storage volumes.
 Amazon Glacier: Economical, extended-duration storage.
 
-🔶** Database:**
+🔶**Database:**
 Managed relational database service provided by Amazon RDS.
 The managed NoSQL database service is offered by Amazon DynamoDB.
 Scalable, rapid data warehousing offered by Amazon Redshift.
