@@ -27,7 +27,7 @@ Amazon VPC: Private cloud infrastructure.
 Amazon CloudFront: A worldwide network for content delivery (CDN).
 AWS Direct Connect: A network connection that is dedicated
 
-🔶** Tools for developers:**
+🔶**Tools for developers:**
 Amazon CodeCommit: A service for managed source control.
 AWS CodeBuild: Construct and evaluate code.
 Automated code deployments using AWS CodeDeploy.
