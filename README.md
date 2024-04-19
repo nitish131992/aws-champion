@@ -4,6 +4,8 @@
 
 [Official Link](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
+[AWS Techinical Essentials](https://explore.skillbuilder.aws/learn/course/1851/play/85986/aws-technical-essentials)
+
 
 𝐀 𝐬𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝 𝐨𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐨𝐟 𝐧𝐚𝐭𝐢𝐯𝐞 𝐀𝐖𝐒 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬❗
 
